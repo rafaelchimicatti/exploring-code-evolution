@@ -83,7 +83,7 @@ Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
 1. Repositório selecionado: https://github.com/pallets/flask
 2. Gráfico selecionado:
-   Import statements
+   ![Grafico](./grafico.png)
 
 
 4. Explicação:
