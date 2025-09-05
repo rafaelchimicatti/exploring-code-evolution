@@ -81,9 +81,14 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado: https://github.com/pallets/flask
+2. Gráfico selecionado:
+   Import statements
+
+
+4. Explicação:
+
+Os gráficos mostram que, ao longo dos anos, o tipo de importação mais utilizado é o import_from_statement, com crescimento contínuo e destaque em 2025, enquanto o uso do tradicional import_statement permanece estável, porém bem abaixo. Já as importações do __future__ são raras, apesar de uma leve tendência de aumento recente. Esses dados indicam uma clara preferência da comunidade por importações mais específicas, consolidando o from ... import ... como padrão dominante nas práticas de importação.
 
 
 
